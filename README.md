@@ -55,7 +55,7 @@ Candidate profiles and job descriptions are transformed into numerical represent
 
 ## Medallion Data Architecture
 
-![Medallion architecture](second_approach/5.png)
+![Medallion architecture](first_approach/5.png)
 
 - **Bronze:** Raw job data collected from the source systems.
 - **Silver:** Cleaned, deduplicated, and standardized data.
