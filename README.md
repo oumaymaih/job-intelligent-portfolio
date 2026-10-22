@@ -31,7 +31,7 @@ Two data pipeline approaches were explored:
 
 The second approach introduces automated data ingestion and workflow orchestration.
 
-![Job Intelligent data pipeline](images/job-intelligent-architecture.png)
+![Job Intelligent data pipeline](second_approach/1.png)
 
 **Pipeline overview:**
 
@@ -55,7 +55,7 @@ Candidate profiles and job descriptions are transformed into numerical represent
 
 ## Medallion Data Architecture
 
-![Medallion architecture](images/medallion-architecture.png)
+![Medallion architecture](second_approach/5.png)
 
 - **Bronze:** Raw job data collected from the source systems.
 - **Silver:** Cleaned, deduplicated, and standardized data.
@@ -67,13 +67,13 @@ Power BI dashboards provide complementary views of the job market.
 
 ### Candidate dashboard
 
-![Candidate analytics dashboard](images/candidate-dashboard.png)
+![Candidate analytics dashboard](PowerBI_Dashboards/1.png)
 
 The dashboard explores job availability, salary trends, required skills, locations, and competition between candidates.
 
 ### Recruiter dashboard
 
-![Recruiter analytics dashboard](images/recruiter-dashboard.png)
+![Recruiter analytics dashboard](PowerBI_Dashboards/2.png)
 
 The dashboard supports analysis of hiring trends, company activity, salary levels, and the skills most requested by employers.
 
