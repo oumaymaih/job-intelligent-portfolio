@@ -4,7 +4,6 @@ An intelligent job platform designed to centralize data-related job offers, reco
 
 The project combines **Big Data engineering, data warehousing, NLP-based recommendation, workflow orchestration, and business intelligence**.
 
-> **Note:** This repository is intended for project documentation and portfolio presentation purposes only. It provides an overview of the *Job Intelligent* project, including its objectives, architecture, technologies, recommendation approaches, and dashboard examples. It does **not** contain the complete source code or a runnable implementation of the platform. For further technical details, please refer to the project report included in this repository.
 
 ## Project Overview
 
@@ -97,10 +96,5 @@ The project report documents the two pipeline approaches, system architecture, d
 
 This repository presents the project documentation and architecture. It does not claim to provide a complete, publicly available source-code implementation.
 
-## Authors
-
-- Salma Ben Aammi
-- Oumayma Ihrissane
-- Douae Laayouni
 
 Academic project — Data Warehouse and Data Lake, 2025–2026.
